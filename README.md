@@ -13,3 +13,7 @@ Generate Blog post from Youtube video by using LangGraph. It has got reviewer an
 ## File name: CodeConverter.ipynb
 Converts java code to python code. Also take reviewer feedback, update the python code based on reviwer feedback. Next takes the human feed back and genarte the final python code
 If reviewer review is not required, directly the code is given to the end user, ending the process.
+
+# Usecase-4 : Software Development Life Cycle (SDLC) Project using LangGraph
+## File name: SoftwareLifecycle.ipynb and SDLCProject.py
+This project takes user inputs and take care of the whole SDLC for the input. This includes genearting the user stories, creating functional and techinical design documents, generating code, writing testcases etc. Also, taking care of review and feedback.
